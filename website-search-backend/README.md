@@ -42,8 +42,8 @@ This backend powers the Semantic Search App, enabling website content to be craw
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/semantic-search-app.git
-cd semantic-search-app/backend
+git clone https://github.com/Anjali-Kedia/semantic-search-app.git
+cd semantic-search-app/website-search-backend
 ````
 
 ### 2. Create a virtual environment

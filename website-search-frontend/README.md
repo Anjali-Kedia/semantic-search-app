@@ -55,7 +55,7 @@ website-search-frontend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/semantic-search-app.git
+git clone https://github.com/Anjali-Kedia/semantic-search-app.git
 cd semantic-search-app/website-search-frontend
 ````
 
